@@ -1,0 +1,24 @@
+	FILES in this directory:
+
+ 1) cligen53.exe -- Latest W-32 CLIGEN executable. (Run in DOS window.)
+ 2) cligen522564.exe -- Previous Win32 executable
+ 3) cligen522563.exe == Older Win32 executable.
+ 4) cligen522563.f -- Source code from the next oldest version.
+ 5) cligen522564.f -- Source code before last change (1-10-2008)
+ 6) cligen53.f -- Source code for latest CLIGEN executable.
+ 7) cbk1.inc -- Required to compile current version of CLIGEN.
+ 8) cbk3.inc -- Required to compile current version of CLIGEN.
+ 9) cbk4.inc -- Required to compile current version of CLIGEN.
+10) cbk5.inc -- Required to compile current version of CLIGEN.
+11) cbk7.inc -- Required to compile current version of CLIGEN.
+12) cbk9.inc -- Required to compile current version of CLIGEN.
+13) ccl1.inc -- Required to compile current version of CLIGEN.
+14) command.inc -- Required to compile current version of CLIGEN.
+15) crandom.inc -- Required to compile current version of CLIGEN.
+16) csumr.inc -- Required to compile current version of CLIGEN.
+17) cinterp.inc -- Required to compile current version of CLIGEN.
+18) ctap2.inc -- Required if std. norm. dev's. are monitored & tested.
+19) ms_chi-sq.o -- Numerical Recipes Chi-square test object file for Windows.
+20) solaris_chi-sq.o -- Num. Recipes Chi-square test object file for Solaris.
+
+Note: Items 6-18 are required to compile CLIGEN.
